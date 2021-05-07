@@ -1,4 +1,4 @@
-package Pepcoding.Heap;
+package Pepcoding.Heap.HeapConstruction;
 
 public class basic {
     public static int heightOfTree(int[] arr, int idx){
