@@ -1,4 +1,4 @@
-# dataStructuresAndAlgorithms
+# DataStructures And Algorithms
 
 Hi All
 This repository contains code for different types of data structures and algorithms.
