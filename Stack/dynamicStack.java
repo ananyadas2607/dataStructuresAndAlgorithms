@@ -1,6 +1,8 @@
 package Pepcoding.Stack;
 
-public class dynamicStack extends stack{
+import Pepcoding.Stack.adapters.stack;
+
+public class dynamicStack extends stack {
 
     public dynamicStack(){
         super();
