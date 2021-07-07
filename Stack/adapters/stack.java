@@ -1,4 +1,4 @@
-package Pepcoding.Stack;
+package Pepcoding.Stack.adapters;
 
 public class stack {
     private int[] arr;
