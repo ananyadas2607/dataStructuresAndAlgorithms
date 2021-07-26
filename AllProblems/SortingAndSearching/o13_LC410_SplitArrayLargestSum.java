@@ -1,4 +1,4 @@
-package Pepcoding.FAANG2.SortingAndSearching;
+package Pepcoding.AllProblems.SortingAndSearching;
 
 public class o13_LC410_SplitArrayLargestSum {
     public int splitArray(int[] nums, int m) {

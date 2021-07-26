@@ -1,4 +1,4 @@
-package Pepcoding.FAANG2.SortingAndSearching;
+package Pepcoding.AllProblems.SortingAndSearching;
 
 public class o16_kokoeatingbananas {
     public int minEatingSpeed(int[] piles, int h) {

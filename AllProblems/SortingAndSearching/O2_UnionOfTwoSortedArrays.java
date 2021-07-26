@@ -1,4 +1,4 @@
-package Pepcoding.FAANG2.SortingAndSearching;
+package Pepcoding.AllProblems.SortingAndSearching;
 
 import java.util.ArrayList;
 
